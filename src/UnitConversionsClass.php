@@ -4,5 +4,4 @@ namespace Sajid\UnitConversions;
 
 class UnitConversionsClass
 {
-    
 }

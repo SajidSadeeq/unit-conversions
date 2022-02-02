@@ -2,6 +2,6 @@
 
 namespace Sajid\UnitConversions;
 
-class NewClass {
-    
+class NewClass
+{
 }
