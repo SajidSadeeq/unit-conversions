@@ -7,7 +7,7 @@ use Sajid\UnitConversions\Weight;
 
 class WeightTest extends TestCase
 {
-    //** @test **//   
+    //** @test **//
     public function test_convert_kilogram_to_lbs()
     {
         $lbs = Weight::fromKilograms(100)->toLbs();
