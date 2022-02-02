@@ -20,6 +20,4 @@ class Weight
     {
         return $this->killograms * 2.204623;
     }
-
-
 }
